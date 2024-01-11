@@ -16,8 +16,6 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <img src="https://github.com/jonchung1205/CyberIntegration/blob/main/images/API.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
-![Uploading image.png…]()
-
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
 <h2>Utilities Used</h2>
@@ -27,7 +25,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks coming in ; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="(https://github.com/jonchung1205/CyberIntegration/blob/main/images/CustomLogOutput.png)" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://github.com/jonchung1205/CyberIntegration/blob/main/images/CustomLogOutput.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 10 hours (built custom logs including geodata)</h2>
