@@ -13,7 +13,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/zs6qV1q" (https://imgur.com/a/A5Zw0GP)" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://github.com/jonchung1205/CyberIntegration/blob/main/images/API.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 ![Uploading image.png…]()
