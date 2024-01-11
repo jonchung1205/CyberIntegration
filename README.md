@@ -13,9 +13,10 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/zs6qV1q.jpg" (https://imgur.com/a/A5Zw0GP)" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://imgur.com/a/zs6qV1q" (https://imgur.com/a/A5Zw0GP)" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
+![Uploading image.png…]()
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
@@ -23,7 +24,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks coming in ; Custom logs being output with geodata</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
